@@ -1,9 +1,0 @@
-C:\Users\sachi\source\repos\50_Blockchain\AWS_Service\bin\Debug\netcoreapp3.1\AWS_Service.deps.json
-C:\Users\sachi\source\repos\50_Blockchain\AWS_Service\bin\Debug\netcoreapp3.1\AWS_Service.dll
-C:\Users\sachi\source\repos\50_Blockchain\AWS_Service\bin\Debug\netcoreapp3.1\AWS_Service.pdb
-C:\Users\sachi\source\repos\50_Blockchain\AWS_Service\obj\Debug\netcoreapp3.1\AWS_Service.csproj.AssemblyReference.cache
-C:\Users\sachi\source\repos\50_Blockchain\AWS_Service\obj\Debug\netcoreapp3.1\AWS_Service.AssemblyInfoInputs.cache
-C:\Users\sachi\source\repos\50_Blockchain\AWS_Service\obj\Debug\netcoreapp3.1\AWS_Service.AssemblyInfo.cs
-C:\Users\sachi\source\repos\50_Blockchain\AWS_Service\obj\Debug\netcoreapp3.1\AWS_Service.csproj.CoreCompileInputs.cache
-C:\Users\sachi\source\repos\50_Blockchain\AWS_Service\obj\Debug\netcoreapp3.1\AWS_Service.dll
-C:\Users\sachi\source\repos\50_Blockchain\AWS_Service\obj\Debug\netcoreapp3.1\AWS_Service.pdb

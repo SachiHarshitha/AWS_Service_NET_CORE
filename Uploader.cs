@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AWS_Service
 {
-    public class Uploader
+    public static class Uploader
     {
         private static IAmazonS3 s3Client;
 
