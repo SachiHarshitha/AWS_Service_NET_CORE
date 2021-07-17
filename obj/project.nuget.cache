@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TEo9D/IC9I80nPQYuuq0I7vnyOnoQ0r+QmFKGWjJm+MPH6RSNAURMe4dmxJm1K1fMtxLR7t8v80hXxTfOh76oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sachi\\source\\repos\\50_Blockchain\\AWS_Service\\AWS_Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sachi\\.nuget\\packages\\awssdk.core\\3.7.0.45\\awssdk.core.3.7.0.45.nupkg.sha512",
+    "C:\\Users\\sachi\\.nuget\\packages\\awssdk.s3\\3.7.1.15\\awssdk.s3.3.7.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
